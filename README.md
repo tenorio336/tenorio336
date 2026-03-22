@@ -1,9 +1,6 @@
 # 👋 Olá! Eu sou o Tenório  
-### 🛠️ Programador, maker, fã de leds piscando e domador de bugs selvagens
-
-<div align="center">
-  <img src="https://media.giphy.com/media/lP8xhQvZ9pW3e/giphy.gif" width="300" alt="gif dev animado">
-</div>
+### 🛠️ Hobbista/Maker em Sistemas Embarcados/IoT.
+Open Source Culture
 
 ---
 
@@ -28,10 +25,6 @@ Atuo com tecnologias de segurança para ambientes corporativos e residenciais:
 - Infraestrutura e redes voltadas para segurança  
 - Integração entre sistemas de monitoramento  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="250" alt="gif cameras">
-</div>
-
 ---
 
 ## 🚀 Tecnologias que uso para dar vida às ideias
@@ -50,10 +43,6 @@ Atuo com tecnologias de segurança para ambientes corporativos e residenciais:
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/4HP0ddZnNVvKU/giphy.gif" width="250" alt="arduino gif">
-</div>
-
 ---
 
 ## 🧪 Ferramentas e Testes
@@ -67,20 +56,6 @@ Atuo com tecnologias de segurança para ambientes corporativos e residenciais:
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="300" alt="computer vision gif">
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenorio336&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tenorio336&show_icons=true&theme=radical)
-
-</div>
-
 ---
 
 ## 🛠️ Projetos e Interesses (o que me diverte no mundo real)
@@ -93,9 +68,3 @@ Atuo com tecnologias de segurança para ambientes corporativos e residenciais:
 
 ---
 
-## 📫 Contato
-📧 *Coloque aqui seu email, LinkedIn ou outra rede social*
-
----
-
-⭐ *Se gostou, dá uma olhada nos meus repositórios!*  
